@@ -1,1 +1,1 @@
-# persinal-website
+# personal-website
